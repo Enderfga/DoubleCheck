@@ -1,2 +1,2 @@
 # DoubleCheck
-LCCR: Long-Text Chinese Rumor Detection Dataset
+LTCR: Long-Text Chinese Rumor Detection Dataset
